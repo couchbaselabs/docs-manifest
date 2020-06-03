@@ -12,6 +12,6 @@
     <project name="docs-sdk-nodejs" />
     <project name="docs-sdk-php" />
     <project name="docs-sdk-python" />
-    <project name="docs-sdk-ruby" />
+    <project name="docs-sdk-ruby" remote="couchbase-priv" />
     <project name="docs-sdk-scala" />
  </manifest>
