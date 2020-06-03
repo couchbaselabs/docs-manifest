@@ -1,0 +1,17 @@
+<manifest>
+   <remote name="couchbase"     fetch="git://github.com/couchbase/" />
+   <remote name="couchbase-priv" fetch="ssh://git@github.com/couchbase/" />
+   <default revision="release/3.0"
+       remote="couchbase"
+           sync-j="4" />
+    <project name="docs-sdk-common" />
+    <project name="docs-sdk-c" />
+    <project name="docs-sdk-dotnet" />
+    <project name="docs-sdk-go" />
+    <project name="docs-sdk-java" />
+    <project name="docs-sdk-nodejs" />
+    <project name="docs-sdk-php" />
+    <project name="docs-sdk-python" />
+    <project name="docs-sdk-ruby" />
+    <project name="docs-sdk-scala" />
+ </manifest>
