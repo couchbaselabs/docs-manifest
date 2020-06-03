@@ -7,7 +7,7 @@
     <project name="docs-sdk-common" revision="release/6.5" />
     <project name="docs-sdk-c" />
     <project name="docs-sdk-dotnet" />
-    <project name="docs-sdk-go" revision="release/6.5" />
+    <project name="docs-sdk-go" revision="release/2.1" />
     <project name="docs-sdk-java" />
     <project name="docs-sdk-nodejs" />
     <project name="docs-sdk-php" />
