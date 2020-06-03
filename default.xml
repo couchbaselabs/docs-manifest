@@ -4,7 +4,7 @@
    <default revision="release/3.0"
        remote="couchbase"
            sync-j="4" />
-    <project name="docs-sdk-common" />
+    <project name="docs-sdk-common" revision="release/6.5" />
     <project name="docs-sdk-c" />
     <project name="docs-sdk-dotnet" />
     <project name="docs-sdk-go" />
