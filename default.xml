@@ -7,11 +7,11 @@
     <project name="docs-sdk-common" revision="release/6.5" />
     <project name="docs-sdk-c" />
     <project name="docs-sdk-dotnet" />
-    <project name="docs-sdk-go" />
+    <project name="docs-sdk-go" revision="release/6.5" />
     <project name="docs-sdk-java" />
     <project name="docs-sdk-nodejs" />
     <project name="docs-sdk-php" />
     <project name="docs-sdk-python" />
     <project name="docs-sdk-ruby" remote="couchbase-priv" />
-    <project name="docs-sdk-scala" />
+    <project name="docs-sdk-scala" revision="release/1.0" />
  </manifest>
